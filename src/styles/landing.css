@@ -1,0 +1,27 @@
+/* launch styles */
+.launch {
+	display: flex;
+	justify-content: center;
+	padding: 10vw;
+	padding-top: 20vh;
+  padding-bottom: 10vh;
+}
+
+.left_side {
+	align-self: flex-end;
+}
+
+@media screen and (max-width: 600px) {
+	.launch {
+		flex-direction: column-reverse;
+		align-items: center;
+		justify-content: space-around;
+    padding-top: 10vh;
+	}
+
+	.left_side {
+		padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+	}
+}

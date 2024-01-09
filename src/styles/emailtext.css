@@ -1,0 +1,39 @@
+#emailcontain {
+	margin-top: 1.2rem;
+	display: flex;
+	margin-bottom: 1rem;
+	align-items: center;
+}
+
+.emailfield {
+	height: 2.27rem;
+	padding-left: 1rem;
+	border: solid 2.5px;
+	border-color: #bcbcbc;
+	font-family: var(--roboto_mono);
+}
+
+.sub {
+	font-family: var(--rocksalt);
+	height: 2.2rem;
+	margin-left: 0.5rem;
+	padding: 0 1.5rem;
+	border: none;
+	border-radius: 8px;
+	background-color: var(--richBlack);
+	color: var(--seasalt);
+}
+
+.sub:hover {
+	cursor: pointer;
+}
+
+.subtext {
+	font-family: var(--roboto_mono);
+	font-size: 12px;
+}
+
+.underline {
+	text-decoration: underline dashed;
+	color: var(--darkmoss);
+}
