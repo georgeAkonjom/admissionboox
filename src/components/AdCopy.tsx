@@ -4,7 +4,7 @@ function AdCopy() {
 		<div className="text_container">
 			<span className="grey">~ Coming Soon ~</span>
 			<p className="main_text">
-				AdmissionsBOOX will assist secondary, primary and
+				AdmissionBOOX will assist secondary, primary and
 				early years school applicants find over 100,000
 				schools, apply to schools that fit their
 				preferences, and go through the admission processes

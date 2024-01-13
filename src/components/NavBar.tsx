@@ -3,7 +3,7 @@ function NavBar() {
 	return (
 		<nav className="bar">
 			<div>
-				<p className="logo">AdmissionsBOOX</p>
+				<p className="logo">AdmissionBOOX</p>
 			</div>
 			<ul className="links" role="list">
 				{/* <li>
