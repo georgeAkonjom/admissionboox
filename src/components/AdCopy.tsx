@@ -5,7 +5,7 @@ function AdCopy() {
 			<span className="grey">~ Coming Soon ~</span>
 			<p className="main_text">
 				AdmissionBOOX will assist secondary, primary and
-				early years school applicants find over 100.000
+				early years school applicants find over 100,000
 				schools, apply to schools that fit their
 				preferences, and go through the admission processes
 				online, anywhere in the world using their devices.
